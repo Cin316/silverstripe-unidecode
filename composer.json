@@ -1,7 +1,6 @@
 {
 	"name": "silverstripe-labs/unidecode",
-	"description": "Unidecode is a PHP version of the perl module Text::Unicode.
-		It takes UTF-8 data and tries to represent it in US-ASCII characters",
+	"description": "Unidecode is a PHP version of the perl module Text::Unicode.\nIt takes UTF-8 data and tries to represent it in US-ASCII characters",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe-labs", "unidecode"],
 	"authors": [
